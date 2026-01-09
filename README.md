@@ -1,5 +1,4 @@
-# Hospital-Management-System
-# Hospital Management System
+# Prescripto – Hospital-Management-System
 
 ## 📌 Project Description
 The Hospital Management System is a web-based application developed using PHP and MySQL that allows patients to book appointments online and enables administrators to manage hospital operations efficiently.
@@ -37,5 +36,8 @@ The Hospital Management System is a web-based application developed using PHP an
 - Create a database (example: `hospital_db`)
 - Import the `.sql` file from the `database` folder
 5. Open browser and run:
--http://localhost/Hospital-Management-System
+-http://localhost/Hospital-Management-System.
+
+## 👨‍💻 Author
+**Manish Kasaudhan**
 
